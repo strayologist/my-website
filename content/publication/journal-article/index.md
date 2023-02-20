@@ -34,7 +34,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An example journal article
+title: Astrobiology as a Driver to Connect India's Public, Scientists, and Space
+  Missions
 doi: 10.1089/space.2021.0041
 featured: true
 tags:
