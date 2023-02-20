@@ -15,7 +15,7 @@ abstract: Astrobiology is an emerging and interdisciplinary scientific field
   down the cost, time, and programmatic challenges traditionally faced by
   Astrobiology missions.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.researchgate.net/publication/356768813_Astrobiology_as_a_Driver_to_Connect_India's_Public_Scientists_and_Space_Missions
 publication_types:
   - "2"
 authors:
@@ -54,7 +54,7 @@ image:
   filename: rover.jpg
 date: 2023-02-20T04:10:31.610Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2021-12-02 T00:00:00Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
