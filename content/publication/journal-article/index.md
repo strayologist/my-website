@@ -38,13 +38,8 @@ title: Astrobiology as a Driver to Connect India's Public, Scientists, and Space
   Missions
 doi: 10.1089/space.2021.0041
 featured: true
-tags:
-  - Astrobiology
-  - India
-  - Space
-  - Communication
-categories:
-  - Astrobiology
+tags: []
+categories: []
 projects: []
 image:
   caption: ""
