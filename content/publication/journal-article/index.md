@@ -47,11 +47,10 @@ categories:
   - Astrobiology
 projects: []
 image:
-  caption: Team Rudra, the Mars rover team of SRM Institute of Science and
-    Technology, performing the Science task at IRC 2020.
+  caption: ""
   focal_point: ""
   preview_only: false
-  filename: rover.jpg
+  filename: ""
 date: 2023-02-20T04:10:31.610Z
 url_slides: ""
 publishDate: 2021-12-02 T00:00:00Z
