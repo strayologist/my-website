@@ -23,7 +23,7 @@ publication: "Nature Communications. 14, 1391 "
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2023-04-11T10:05:52.578Z
