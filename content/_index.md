@@ -90,14 +90,17 @@ sections:
         country: India
         country_code: IN   
       contact_links:
+      
         - icon: twitter
           icon_pack: fab
           name: 
           link: 'https://twitter.com/strayologist'
+          
         - icon: instagram
           icon_pack: fab
           name: 
           link: 'https://instagram.com/strayologist'
+          
         - icon: linkedin
           icon_pack: fab
           name: 
