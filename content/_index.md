@@ -82,7 +82,7 @@ sections:
       form:
         provider: netlify
         formspree: 
-          id: xdovplwy
+          id: https://formspree.io/f/xdovplwy
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
