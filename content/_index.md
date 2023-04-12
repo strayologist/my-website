@@ -46,7 +46,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="other" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: collection
@@ -90,7 +90,6 @@ sections:
         country: India
         country_code: IN   
       contact_links:
-      
         - icon: twitter
           icon_pack: fab
           name: 
