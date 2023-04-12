@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Anurup.'
+    notice: '© {year} Anurup Mohanty'
     license:
       enable: false
       allow_derivatives: false
