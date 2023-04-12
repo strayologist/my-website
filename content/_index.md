@@ -18,7 +18,7 @@ sections:
     id: featured
     content:
       title: Publications
-      subtitle: 'A complete list of my publications can be obtained from my [Google Scholar](https://scholar.google.com/citations?user=8KIsYXkAAAAJ&hl=en) profile. Please do not hesistate to contact me for full-text or associated data.'
+      text: A complete list of my publications can be obtained from my [Google Scholar](https://scholar.google.com/citations?user=8KIsYXkAAAAJ&hl=en) profile. Please do not hesistate to contact me for full-text or associated data.
       
   - block: collection
     id: posts
