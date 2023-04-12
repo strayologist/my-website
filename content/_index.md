@@ -49,11 +49,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-     # text: 'List of my publications is available on my Google Scholar profile. Feel free to contact me for access to specific articles.'
   - block: contact
     id: contact
     content:
