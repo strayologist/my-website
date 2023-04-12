@@ -52,28 +52,8 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+      title: Publications
+      subtitle: List of my publications is available on my Google Scholar profile. Feel free to contact me for access to specific articles.
   - block: contact
     id: contact
     content:
