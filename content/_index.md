@@ -13,11 +13,17 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  
+   - block: publications
+    id: featured
+    content:
+      title: Publications
+      subtitle: 'A complete list of my publications can be obtained from my [Google Scholar](https://scholar.google.com/citations?user=8KIsYXkAAAAJ&hl=en) profile. Please do not hesistate to contact me for full-text or associated data.'
       
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
