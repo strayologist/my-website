@@ -25,7 +25,7 @@ authors:
   - Anurup Mohanty
   - Satyam Tiwari
   - Jovel Varghese Jose
-  - and Siddhant Sharma
+  - Siddhant Sharma
 author_notes: []
 publication: New Space. Mar 2022. 51-67
 summary: ""
@@ -46,9 +46,8 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2023-02-20T04:10:31.610Z
+date: 2022-03-16T04:10:31.610Z
 url_slides: ""
-publishDate: 2021-12-02 T00:00:00Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
