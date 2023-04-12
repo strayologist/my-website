@@ -17,21 +17,15 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BTech in Biotechnology
+      institution: SRM Institute of Science and Technology
       year: 2008
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: 🧫 
+last_name: Mohanty
 highlight_name: true
-first_name: Alice
+first_name: Anurup
 email: ""
 ---
 I'm an early career researcher fascinated by microbes and their biological mechanisms to thrive in extreme environments. I'm passionate about space exploration; I also enjoy travelling and sharing science.
