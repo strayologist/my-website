@@ -94,6 +94,14 @@ sections:
           icon_pack: fab
           name: 
           link: 'https://twitter.com/strayologist'
+        - icon: instagram
+          icon_pack: fab
+          name: 
+          link: 'https://instagram.com/strayologist'
+        - icon: linkedin
+          icon_pack: fab
+          name: 
+          link: 'https://linkedin.com/in/strayologist'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
