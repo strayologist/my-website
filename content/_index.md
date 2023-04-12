@@ -80,10 +80,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Get in touch. 
+        Comments, Criticism or Questions? Please get in touch! 
       # Contact (add or remove contact options as necessary)    
       address:
-        street: Prof. Aloke Kumar Lab, Mechanical Engineering, Indian Institute of Science
+        street: Mechanical Engineering, Indian Institute of Science
         city: Bangalore
         region: Karnataka
         postcode: '560012'
@@ -96,15 +96,6 @@ sections:
           name: 
           link: 'https://twitter.com/strayologist'
           
-        - icon: instagram
-          icon_pack: fab
-          name: 
-          link: 'https://instagram.com/strayologist'
-          
-        - icon: linkedin
-          icon_pack: fab
-          name: 
-          link: 'https://linkedin.com/in/strayologist'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
